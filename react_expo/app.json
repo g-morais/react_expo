@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "navegaçãog]",
-    "slug": "expo_nav",
+    "name": "navegação",
+    "slug": "app_portifolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
